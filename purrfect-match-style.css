@@ -1,0 +1,148 @@
+* {
+  font-family: 'Lato', sans-serif;
+}
+
+body {
+  background-color: #fff4ff;
+}
+
+#section-1 {
+  padding-top: 70px;
+  background-image: url(http://www.wallpaperbetter.com/wallpaper/773/171/803/cute-cat-touch-hand-palm-bokeh-1080P-wallpaper.jpg);
+  background-size: cover;
+  background-position: center;
+  margin-bottom: 40px;
+}
+
+html {
+  height: 100%;
+}
+
+.jumbotron {
+  text-transform: capitalize;
+  text-align: center;
+  background-color: inherit;
+  color: white;
+  padding-top: 25%;
+  text-shadow: 0 4px 3px rgba(0,0,0,0.4),
+               0 8px 13px rgba(0,0,0,0.1),
+               0 18px 23px rgba(0,0,0,0.1);
+}
+
+.jumbotron h1 {
+  font-weight: 700;
+  font-size: 4.5em;
+}
+
+button {
+  font-weight: bold;
+}
+
+#section-1 hr {
+  width: 400px;
+  border-top: 1px solid #f8f8f8;
+  border-bottom: rgba(0,0,0,0.2)
+}
+
+/*---------------------------*/
+
+#section-2 {
+  background-color: #fff4ff;
+  text-align: center;
+  text-shadow: 0 2px 2px rgba(0,0,0,0.2);
+  margin-bottom: 40px;
+}
+
+.box {
+  padding: 30px 0 30px 0;
+}
+
+.box i {
+  font-size: 7em;
+}
+
+/*---------------------------*/
+
+#section-3 {
+  background-color: #666666;
+  color: #fff;
+  text-shadow: 0 2px 2px rgba(0,0,0,0.6);
+  padding-bottom: 40px;
+}
+
+#section-3 .row {
+  padding-bottom: 15px;
+  /*border: 2px solid red;*/
+}
+
+#section-3 .col-sm-10 .col-sm-9 .col-xs-11{
+  text-align: center;
+}
+
+#section-3 .col-md-9 {
+  text-align: right;
+}
+
+#section-3 .col-md-10 {
+  text-align: left;
+}
+
+.heading {
+  text-transform: uppercase;
+  text-align: center;
+  letter-spacing: 0.7rem;
+  padding: 20px 0 30px 0;
+}
+
+#section-3 hr {
+  width: 70%;
+  visibility: hidden;
+}
+
+.box-2 {
+  font-size: 5.5rem;
+  padding-top: 10px;
+}
+
+.align-right {
+  text-align: right;
+}
+
+.align-left {
+  text-align: left;
+}
+
+/*---------------------------*/
+
+#section-4 {
+  text-shadow: 0 2px 2px rgba(0,0,0,0.2);
+  margin-bottom: 40px;
+}
+
+#section-4 .thumbnail {
+  padding: 2px;
+  margin-bottom: 8px;
+  box-shadow: -2px 2px 2px rgba(0,0,0,0.6),
+              -5px 5px 5px rgba(0,0,0,0.2);
+}
+
+#section-4 h4 {
+  margin-top: 0;
+}
+
+.thumbnail img {
+  padding: 0;
+}
+
+.name-and-feedback {
+  text-align: center;
+  padding-bottom: 40px;
+}
+
+.name-and-feedback p {
+  font-style: italic;
+}
+
+.box-3 {
+
+}
